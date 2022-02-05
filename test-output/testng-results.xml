@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28078" started-at="2022-02-05T19:26:20 IST" finished-at="2022-02-05T19:26:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28078" started-at="2022-02-05T19:26:20 IST" finished-at="2022-02-05T19:26:49 IST">
+      <class name="api_debug.APIDemoAppBasics">
+        <test-method status="PASS" signature="apiDemoApp()[pri:0, instance:api_debug.APIDemoAppBasics@78ac1102]" name="apiDemoApp" duration-ms="27964" started-at="2022-02-05T19:26:21 IST" finished-at="2022-02-05T19:26:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemoApp -->
+      </class> <!-- api_debug.APIDemoAppBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78079" started-at="2022-02-05T13:22:02Z" finished-at="2022-02-05T13:23:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78079" started-at="2022-02-05T13:22:02Z" finished-at="2022-02-05T13:23:20Z">
+      <class name="eCommerceApp.TC5">
+        <test-method status="PASS" signature="test1()[pri:0, instance:eCommerceApp.TC5@53ca01a2]" name="test1" duration-ms="54241" started-at="2022-02-05T13:22:02Z" finished-at="2022-02-05T13:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- eCommerceApp.TC5 -->
+      <class name="api_debug.APIDemoAppBasics">
+        <test-method status="PASS" signature="apiDemoApp()[pri:0, instance:api_debug.APIDemoAppBasics@358c99f5]" name="apiDemoApp" duration-ms="23798" started-at="2022-02-05T13:22:56Z" finished-at="2022-02-05T13:23:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemoApp -->
+      </class> <!-- api_debug.APIDemoAppBasics -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
